@@ -1,2 +1,3 @@
-# github1
-Primeira aula de GitHub. Primeiro repositório.
+# Aula Git GitHub
+## Iniciando
+Primeira aula de GitHub. Primeiro repositório. :zap:
